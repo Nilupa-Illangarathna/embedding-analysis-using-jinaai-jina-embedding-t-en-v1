@@ -16,4 +16,4 @@ This repository contains code for processing and analyzing hotel review data by 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/hotel-review-embedding-analysis.git
+   https://github.com/Nilupa-Illangarathna/embedding-analysis-using-jinaai-jina-embedding-t-en-v1.git
